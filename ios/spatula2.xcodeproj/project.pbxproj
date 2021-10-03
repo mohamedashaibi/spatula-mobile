@@ -14,6 +14,18 @@
 		3E461D99554A48A4959DE609 /* SplashScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA286B85B6C04FC6940260E9 /* SplashScreen.storyboard */; };
 		96905EF65AED1B983A6B3ABC /* libPods-spatula2.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 58EEBF8E8E6FB1BC6CAF49B5 /* libPods-spatula2.a */; };
 		BB2F792D24A3F905000567C9 /* Expo.plist in Resources */ = {isa = PBXBuildFile; fileRef = BB2F792C24A3F905000567C9 /* Expo.plist */; };
+		2FFC3A13F9C349A69159B08E /* Mada-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C2575672C69A465283FCC87C /* Mada-Bold.ttf */; };
+		AAC6173CFCAB401A8A833338 /* Sukarblack.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F32C9AFBA426452089A60C76 /* Sukarblack.ttf */; };
+		C7B56490BE93489C9E94BE48 /* background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BBA8A7400D5C43C8B93CDB7D /* background.jpg */; };
+		88045B8B52044276A4F9C3E0 /* cake.gif in Resources */ = {isa = PBXBuildFile; fileRef = 5FD03590EA764B44BBBD0E4A /* cake.gif */; };
+		1AEB7FBAE71D44019DDD54EE /* exclamation.png in Resources */ = {isa = PBXBuildFile; fileRef = CA100188EFC34E8586A14271 /* exclamation.png */; };
+		FAC426166AC74078B7D429B8 /* fblogo.png in Resources */ = {isa = PBXBuildFile; fileRef = BE91A5B36D5845CEB94E2E75 /* fblogo.png */; };
+		6C8A266BBDB24CF4A154AF36 /* floweraround.png in Resources */ = {isa = PBXBuildFile; fileRef = 83422DE40FCE4836808A535E /* floweraround.png */; };
+		7FE55A242FE649EE90116CDD /* flowerborder.png in Resources */ = {isa = PBXBuildFile; fileRef = 165851FD8AAE4D07A40D2D28 /* flowerborder.png */; };
+		EAC544D91CA0427983ED1A77 /* spatulapng.png in Resources */ = {isa = PBXBuildFile; fileRef = 4FFE0A404E7543E4BDC909A4 /* spatulapng.png */; };
+		E7F54088DDE64EC4B7F1F419 /* whatsapplogo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9F1508138FB0451FB8926F72 /* whatsapplogo.jpg */; };
+		CD72A4315656402E86A593B5 /* Amiri.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DD367FE9796E450890AD8E60 /* Amiri.ttf */; };
+		E40FD990A36744FB857DFE61 /* Amiri-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6F77FF96DC3F48A7A83BD1E2 /* Amiri-Bold.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +44,18 @@
 		BB2F792C24A3F905000567C9 /* Expo.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Expo.plist; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
+		C2575672C69A465283FCC87C /* Mada-Bold.ttf */ = {isa = PBXFileReference; name = "Mada-Bold.ttf"; path = "../assets/fonts/Mada-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F32C9AFBA426452089A60C76 /* Sukarblack.ttf */ = {isa = PBXFileReference; name = "Sukarblack.ttf"; path = "../assets/fonts/Sukarblack.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		BBA8A7400D5C43C8B93CDB7D /* background.jpg */ = {isa = PBXFileReference; name = "background.jpg"; path = "../assets/images/background.jpg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		5FD03590EA764B44BBBD0E4A /* cake.gif */ = {isa = PBXFileReference; name = "cake.gif"; path = "../assets/images/cake.gif"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		CA100188EFC34E8586A14271 /* exclamation.png */ = {isa = PBXFileReference; name = "exclamation.png"; path = "../assets/images/exclamation.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		BE91A5B36D5845CEB94E2E75 /* fblogo.png */ = {isa = PBXFileReference; name = "fblogo.png"; path = "../assets/images/fblogo.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		83422DE40FCE4836808A535E /* floweraround.png */ = {isa = PBXFileReference; name = "floweraround.png"; path = "../assets/images/floweraround.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		165851FD8AAE4D07A40D2D28 /* flowerborder.png */ = {isa = PBXFileReference; name = "flowerborder.png"; path = "../assets/images/flowerborder.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		4FFE0A404E7543E4BDC909A4 /* spatulapng.png */ = {isa = PBXFileReference; name = "spatulapng.png"; path = "../assets/images/spatulapng.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9F1508138FB0451FB8926F72 /* whatsapplogo.jpg */ = {isa = PBXFileReference; name = "whatsapplogo.jpg"; path = "../assets/images/whatsapplogo.jpg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		DD367FE9796E450890AD8E60 /* Amiri.ttf */ = {isa = PBXFileReference; name = "Amiri.ttf"; path = "../assets/fonts/Amiri.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		6F77FF96DC3F48A7A83BD1E2 /* Amiri-Bold.ttf */ = {isa = PBXFileReference; name = "Amiri-Bold.ttf"; path = "../assets/fonts/Amiri-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +111,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				D65327D7A22EEC0BE12398D9 /* Pods */,
+				711BA5D7CE954FACB8D5D5C5 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -118,6 +143,26 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		711BA5D7CE954FACB8D5D5C5 /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				C2575672C69A465283FCC87C /* Mada-Bold.ttf */,
+				F32C9AFBA426452089A60C76 /* Sukarblack.ttf */,
+				BBA8A7400D5C43C8B93CDB7D /* background.jpg */,
+				5FD03590EA764B44BBBD0E4A /* cake.gif */,
+				CA100188EFC34E8586A14271 /* exclamation.png */,
+				BE91A5B36D5845CEB94E2E75 /* fblogo.png */,
+				83422DE40FCE4836808A535E /* floweraround.png */,
+				165851FD8AAE4D07A40D2D28 /* flowerborder.png */,
+				4FFE0A404E7543E4BDC909A4 /* spatulapng.png */,
+				9F1508138FB0451FB8926F72 /* whatsapplogo.jpg */,
+				DD367FE9796E450890AD8E60 /* Amiri.ttf */,
+				6F77FF96DC3F48A7A83BD1E2 /* Amiri-Bold.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -183,6 +228,18 @@
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
 				3E461D99554A48A4959DE609 /* SplashScreen.storyboard in Resources */,
+				2FFC3A13F9C349A69159B08E /* Mada-Bold.ttf in Resources */,
+				AAC6173CFCAB401A8A833338 /* Sukarblack.ttf in Resources */,
+				C7B56490BE93489C9E94BE48 /* background.jpg in Resources */,
+				88045B8B52044276A4F9C3E0 /* cake.gif in Resources */,
+				1AEB7FBAE71D44019DDD54EE /* exclamation.png in Resources */,
+				FAC426166AC74078B7D429B8 /* fblogo.png in Resources */,
+				6C8A266BBDB24CF4A154AF36 /* floweraround.png in Resources */,
+				7FE55A242FE649EE90116CDD /* flowerborder.png in Resources */,
+				EAC544D91CA0427983ED1A77 /* spatulapng.png in Resources */,
+				E7F54088DDE64EC4B7F1F419 /* whatsapplogo.jpg in Resources */,
+				CD72A4315656402E86A593B5 /* Amiri.ttf in Resources */,
+				E40FD990A36744FB857DFE61 /* Amiri-Bold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

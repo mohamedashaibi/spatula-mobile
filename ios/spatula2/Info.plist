@@ -49,7 +49,14 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
-  <key>UIStatusBarStyle</key>
-  <string>UIStatusBarStyleDefault</string>
+	<key>UIStatusBarStyle</key>
+	<string>UIStatusBarStyleDefault</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Mada-Bold.ttf</string>
+		<string>Sukarblack.ttf</string>
+		<string>Amiri.ttf</string>
+		<string>Amiri-Bold.ttf</string>
+	</array>
 </dict>
 </plist>

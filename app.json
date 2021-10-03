@@ -1,11 +1,21 @@
 {
   "expo": {
-    "name": "spatula2",
+    "name": "سباتولا",
+    "icon": "./assets/images/spatulapng.png",
     "slug": "spatula2",
     "version": "1.0.0",
+    "orientation": "portrait",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "ios": {
+      "bundleIdentifier": "com.alsahl.spatula",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.alsahl.spatula",
+      "versionCode": 1
+    }
   },
-  "name": "spatula2"
+  "name": "سباتولا"  
 }
